@@ -5,9 +5,9 @@ export default function footer() {
     <div>
 
         {/* <!-- Footer Section --> */}
-    <footer class="bg-dark text-white py-4">
+    <footer class="text-white footer-section py-4">
         <div class="container">
-            <div class="row">
+            <div class="row footer-content">
                 {/* <!-- About Us Section --> */}
                 <div class="col-md-4 mb-3">
                     <h4>About Us</h4>
